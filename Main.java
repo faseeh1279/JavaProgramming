@@ -8,6 +8,7 @@ public class Main{
         obj.InsertNode(42); 
         obj.InsertNode(22); 
         obj.InsertNode(72);
+        System.out.println("hello world"); 
         obj.show();  
 
     }
